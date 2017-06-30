@@ -1,4 +1,4 @@
-# CathayLife-tensorflow-training
+# Tensorflow-training
 
 ## Day 1 - Intro tensorflow
 * Linear Regression
